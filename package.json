@@ -1,0 +1,25 @@
+{
+  "name": "codo-theme-md",
+  "version": "0.0.1",
+  "description": "Markdown Codo theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torstein Thune <torstein@thune.io>",
+  "dependencies": {
+    "codo": "^2.1.0",
+    "coffee-script": "^1.10.0",
+    "lodash": "^4.15.0",
+    "mkdirp": "^0.5.1"
+  },
+  "homepage": "https://github.com/torthu/codo-theme-md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/torthu/codo-theme-md.git"
+  },
+  "bugs": {
+    "url": "https://github.com/torthu/codo-theme-md/issues"
+  },
+  "license": "MIT"
+}
